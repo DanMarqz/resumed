@@ -87,14 +87,14 @@ div#personalData {
 
 div#contenido {
   display: grid;
-  width: 100vh;
+  width: 100%;
   grid-template-columns: 2.25fr 0.75fr;
   margin-top: 3%;
 }
 
 section#Experiencia,
 section#Personal {
-  width: 95vh;
+  width: 90%;
   margin-left: 2%;
 }
 
