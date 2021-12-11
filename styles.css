@@ -61,14 +61,14 @@ header.container {
   background: #343a40 !important;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 100vh;
   flex-direction: column;
   border-radius: 20px;
 }
 
 div#personalData {
   display: grid;
-  width: 90%;
+  width: 90vh;
   grid-template-columns: 1fr 0.5fr 0.65fr 0.65fr;
   font-family: "Roboto Mono", monospace !important;
 }
@@ -87,14 +87,14 @@ div#personalData {
 
 div#contenido {
   display: grid;
-  width: 100%;
+  width: 100vh;
   grid-template-columns: 2.25fr 0.75fr;
   margin-top: 3%;
 }
 
 section#Experiencia,
 section#Personal {
-  width: 95%;
+  width: 95vh;
   margin-left: 2%;
 }
 
