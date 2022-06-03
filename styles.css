@@ -61,7 +61,7 @@ header.container {
   background: #343a40 !important;
   justify-content: center;
   align-items: center;
-  width: 100vw;
+  width: 90vw;
   flex-direction: column;
   border-radius: 20px;
 }
